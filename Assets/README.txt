@@ -1,0 +1,2 @@
+Please store all visual and audio files in this folder under the appropriate PROJECT structure. 
+Keep a separate copy of your personal work for your own records, and an appropriate folder scheme on your local machine.
